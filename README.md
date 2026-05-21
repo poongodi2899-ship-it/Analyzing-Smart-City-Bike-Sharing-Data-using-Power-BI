@@ -108,18 +108,31 @@ KPI Cards (6)
 
 ## Analytical Insights
 
-- More than 70% of bike stations were operational and available for public usage.
 
-- Around 60%–75% of bike stands were actively utilized in major cities like Marseille and Lyon.
 
-- Several CLOSED stations showed 0 available bikes, indicating operational or maintenance issues.
+## 1. Descriptive Analytics (What Happened?)
+   
+More than 70% of bike stations were in OPEN status, showing good operational performance.
+Around 65%–75% of bike stands were actively utilized in major cities like Marseille and Lyon.
+Nearly 45% of stations supported banking facilities for users.
 
-- Approximately 20%–30% of stations may require additional bike allocation during peak demand periods.
+## 2. Diagnostic Analytics (Why happened?)
 
-- Banking-enabled stations represented nearly 45% of total stations, while remaining stations operated without banking support.
+Approximately 30% of stations showed low or zero bike availability due to high demand or maintenance issues.
+Several CLOSED stations had 0 available bikes and fully occupied stands, affecting service efficiency.
+Missing address values and inconsistent station records were identified and cleaned during data transformation.
 
-- Proper bike redistribution and maintenance strategies can improve overall bike availability efficiency by 15%–20%.
+## 3. Predictive Analytics (What will happen?)
 
+Around 20%–30% of stations may require additional bikes during peak usage periods.
+Cities with high station activity are expected to show increasing bike demand in future periods.
+Stations with consistently low availability may face future operational pressure without redistribution planning.
+
+## 4. Prescriptive Analytics (What should do?)
+
+Proper bike redistribution can improve bike availability efficiency by nearly 15%–20%.
+Increasing bike stands in high-demand cities can reduce station overcrowding.
+Improving maintenance schedules for CLOSED stations can enhance operational performance and customer satisfaction.
 
 ## Conclusion
 
