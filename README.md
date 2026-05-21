@@ -1,10 +1,10 @@
 # Analyzing-Smart-City-Bike-Sharing-Data
-## Project Overview
+## 📌 Project Overview
 
 The Bike Station Sharing Data Analysis project was developed using Power BI to analyze the operational performance of bike-sharing stations across multiple cities. The dataset contains information about station names, bike availability, empty stands, station status, banking facilities, and geographical details.
 The main objective of this project is to transform raw bike station data into meaningful insights using Power BI dashboards, KPI measures, and interactive visualizations. The dashboard helps monitor bike availability, station activity, and city-wise operational performance.
 
-## Objectives
+## 🎯 Objectives
 
 •	To analyze the total number of bike stations across cities. 
 
@@ -20,7 +20,7 @@ The main objective of this project is to transform raw bike station data into me
 
 •	To build an interactive dashboard for operational analysis and decision-making. 
 
-## Tools Used
+## 🛠 Tools Used
 Tool	Purpose
 
 Power BI	       -      Data visualization and dashboard creation
@@ -31,7 +31,7 @@ DAX	                -         KPI calculations and measures
 
 CSV Dataset	        -   Data source
 
-## Data Transformation (Power Query)
+## 🧹 Data Transformation (Power Query)
 
 The dataset was cleaned and transformed using Power Query Editor in Power BI.
 Steps Performed
@@ -54,17 +54,17 @@ Steps Performed
 
 •	Converted Last Update into Date/Time format. 
 
-## Data Modelling
+## 🏗 Data Modelling
 
 A single-table data model was used because the dataset contained all required analytical fields in one table.
 The transformed dataset was loaded directly into Power BI for KPI analysis and dashboard creation.
 
-## DAX Calculations and KPI Measures
+## 📐 DAX Calculations and KPI Measures
 
 <img width="481" height="228" alt="image" src="https://github.com/user-attachments/assets/e0304562-c04f-472f-9ad0-403f4b75d0d6" />
 
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 KPI Cards (6)
 
@@ -106,7 +106,7 @@ KPI Cards (6)
 
 <img width="940" height="562" alt="image" src="https://github.com/user-attachments/assets/f25ec65f-23a3-4901-ad51-13ac3d1bf86d" />
 
-## Analytical Insights
+## 📈 Analytical Insights
 
 
 
@@ -134,7 +134,7 @@ Proper bike redistribution can improve bike availability efficiency by nearly 15
 Increasing bike stands in high-demand cities can reduce station overcrowding.
 Improving maintenance schedules for CLOSED stations can enhance operational performance and customer satisfaction.
 
-## Conclusion
+## 🚀 Conclusion
 
 The Bike Station Sharing Data Analysis dashboard successfully transformed raw bike-sharing data into interactive business insights using Power BI.
 By applying Power Query transformations, DAX calculations, KPI tracking, and multiple visualization techniques, the dashboard provided a clear understanding of station operations, bike availability, and city-wise performance.
